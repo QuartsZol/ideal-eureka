@@ -199,7 +199,7 @@ local Themes = {
 		ColorPicker = Color3.fromRGB(85,85,85),
 		ColorPickerAccent = Color3.fromRGB(130,130,130),
 		TextField = Color3.fromRGB(230,230,230),
-		TextFieldAccent = Color3.fromRGB(160,160,160),
+		TextFieldAccent = Color3.fromRGB(230,230,230),
 	}
 }
 
