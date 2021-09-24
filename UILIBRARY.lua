@@ -183,7 +183,7 @@ local Themes = {
 		Overlay = Color3.fromRGB(175,175,175),
 		Banner = Color3.fromRGB(55,55,55),
 		BannerAccent = Color3.fromRGB(255,255,255),
-		Content = Color3.fromRGB(50,50,50),
+		Content = Color3.fromRGB(85,85,85),
 		Button = Color3.fromRGB(85,85,85),
 		ButtonAccent = Color3.fromRGB(255,255,255),
 		ChipSet = Color3.fromRGB(235,235,235),
@@ -198,8 +198,8 @@ local Themes = {
 		DropdownAccent = Color3.fromRGB(235,235,235),
 		ColorPicker = Color3.fromRGB(85,85,85),
 		ColorPickerAccent = Color3.fromRGB(235,235,235),
-		TextField = Color3.fromRGB(175,175,175),
-		TextFieldAccent = Color3.fromRGB(255,255,255),
+		TextField = Color3.fromRGB(120,120,120),
+		TextFieldAccent = Color3.fromRGB(130,130,130),
 	}
 }
 
